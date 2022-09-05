@@ -6,6 +6,7 @@ int main(void)
 
     printf("Ola, mundo!\n");
     printf("Estamos em %d.\n", year);
+    printf("First\n");
 
     return 0;
 }
